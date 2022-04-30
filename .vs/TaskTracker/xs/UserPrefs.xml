@@ -1,10 +1,12 @@
 ﻿<Properties StartupConfiguration="{FC073596-2A20-4145-B7A6-B9BDED74C2B8}|Default">
   <MonoDevelop.Ide.ItemProperties.TaskTracker FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TaskTracker/Data/Models/Project.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskTracker/Data/Interfaces/ITask.cs">
     <Files>
       <File FileName="TaskTracker/Startup.cs" Line="59" Column="42" />
-      <File FileName="TaskTracker/Data/Models/Task.cs" Line="10" Column="48" />
-      <File FileName="TaskTracker/Data/Models/Project.cs" Line="6" Column="16" />
+      <File FileName="TaskTracker/Data/Models/Task.cs" Line="12" Column="43" />
+      <File FileName="TaskTracker/Data/Models/Project.cs" Line="22" Column="1" />
+      <File FileName="TaskTracker/Data/Interfaces/IProject.cs" Line="8" Column="52" />
+      <File FileName="TaskTracker/Data/Interfaces/ITask.cs" Line="6" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,8 +14,8 @@
           <Node name="TaskTracker" expanded="True">
             <Node name="TaskTracker" expanded="True">
               <Node name="Data" expanded="True">
-                <Node name="Models" expanded="True">
-                  <Node name="Project.cs" selected="True" />
+                <Node name="Interfaces" expanded="True">
+                  <Node name="ITask.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
