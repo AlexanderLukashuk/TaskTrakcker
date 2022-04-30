@@ -1,7 +1,7 @@
 ﻿using System;
 namespace TaskTracker.Data.Models
 {
-    public class Task
+    public class MyTask
     {
         public int id { get; set; }
 
@@ -9,7 +9,11 @@ namespace TaskTracker.Data.Models
 
         public string description { get; set; }
 
-        public Task()
+        public int projectID { get; set; }
+
+        public Project project { get; set; }
+
+        public MyTask()
         {
         }
     }
