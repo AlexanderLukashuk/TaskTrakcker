@@ -1,30 +1,25 @@
 ﻿<Properties StartupConfiguration="{FC073596-2A20-4145-B7A6-B9BDED74C2B8}|Default">
   <MonoDevelop.Ide.ItemProperties.TaskTracker FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TaskTracker/Data/Models/Project.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskTracker/Controllers/TaskController.cs">
     <Files>
-      <File FileName="TaskTracker/Startup.cs" Line="59" Column="42" />
+      <File FileName="TaskTracker/Startup.cs" Line="30" Column="60" />
       <File FileName="TaskTracker/Data/Models/Project.cs" Line="17" Column="10" />
       <File FileName="TaskTracker/Data/Interfaces/IProject.cs" Line="9" Column="53" />
       <File FileName="TaskTracker/Data/Interfaces/ITask.cs" Line="2" Column="34" />
       <File FileName="TaskTracker/Data/Mocks/MockProject.cs" Line="21" Column="124" />
-      <File FileName="TaskTracker/Data/Mocks/MockTask.cs" Line="22" Column="99" />
-      <File FileName="TaskTracker/Data/Models/MyTask.cs" Line="12" Column="43" />
+      <File FileName="TaskTracker/Data/Mocks/MockTask.cs" Line="23" Column="140" />
+      <File FileName="TaskTracker/Data/Models/MyTask.cs" Line="14" Column="45" />
+      <File FileName="TaskTracker/Controllers/TaskController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TaskTracker" expanded="True">
             <Node name="TaskTracker" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="Interfaces" expanded="True" />
-                <Node name="Mocks" expanded="True" />
-                <Node name="Models" expanded="True">
-                  <Node name="Project.cs" selected="True" />
-                </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="TaskController.cs" selected="True" />
               </Node>
-              <Node name="Pages" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="wwwroot" expanded="True" />
+              <Node name="Data" expanded="True" />
             </Node>
           </Node>
         </State>
